@@ -1,7 +1,6 @@
 # Task 2 – To-Do List Android App
 
-This is a simple To-Do List Android application built using **Java**, **XML layouts**, and a local **SQLite** database. It was developed as part of the OIBSIP Android App Development internship.[web:143][web:146][web:203]
-
+This is a simple To-Do List Android application built using **Java**, **XML layouts**, and a local **SQLite** database. It was developed as part of the Oasis Infobyte  Android App Development internship.
 ## Demo video
 
 
@@ -27,5 +26,5 @@ https://github.com/user-attachments/assets/e4982194-114d-4604-8e2b-ddafe6b837e0
 - `SignUpActivity` – Allows new users to register.
 - `MainActivity` – Shows the list of tasks and provides Add / Logout actions.
 - `DBHelper` – Manages SQLite tables and CRUD operations for users and tasks.
-- `Task` & `TaskAdapter` – Model and adapter for binding tasks to the RecyclerView.[web:143][web:145]
+- `Task` & `TaskAdapter` – Model and adapter for binding tasks to the RecyclerView.
 
